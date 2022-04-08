@@ -15,7 +15,7 @@ Running the game in windows (Unix users be gone!):
 6: ???
 7: Profit!
 
-
+10:Currently the game is set to normal mode, to change to cheater mode(for better debugging and assessment) change line 28 of main.py to gameboard.cheaterDisplay(gameBoard.getGrid())
 
 
 Notes:
